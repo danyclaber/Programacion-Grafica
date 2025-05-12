@@ -73,7 +73,6 @@ Incorporación de **sprites 2D** dentro de una escena gráfica con **WebGL 2.0**
 
 Desarrollo de un visor de modelos tridimensionales cargados desde archivos en formato **JSON**. El sistema interpreta datos estructurados de geometría y color, y los renderiza en una escena 3D utilizando **WebGL**, facilitando una representación eficiente y personalizable de objetos.
 
-![Vista previa del proyecto](Proyecto-5/screenshots/vistaPrevia1.png)
 
 ---
 
